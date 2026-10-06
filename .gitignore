@@ -9,3 +9,4 @@ fp-info-cache
 *.kicad_prl
 ~*.lck
 gerbers/
+.history/
