@@ -1011,7 +1011,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 128.27 83.82 0)
 		(effects
